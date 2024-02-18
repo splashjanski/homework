@@ -25,7 +25,7 @@ left(90)
 color("blue")
 
 forward(120)
-raight(90)
+right(90)
 
 
 
